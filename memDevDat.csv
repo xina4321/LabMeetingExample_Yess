@@ -1,0 +1,69 @@
+subID,grantYear,type,age,sex,experimenter,data,iEEG
+CH15,k0,ECoG,10.13278576,F,,,ready
+CH23,k0,sEEG,11.02806297,M,focal motor seizures,,ready
+CP24,k0,ECoG,25,M,,,ready
+CP26,k0,ECoG,26,M,A3-A4,,ready
+CP31,k0,ECoG,32,M,,,ready
+EC213,k0,sEEG,30,M,cortical dysplasia,,ready
+ECoG01,k0,ECoG,13.66666667,F,,,ready
+ECoG02,k0,ECoG,12,F,,,ready
+ECoG03,k0,ECoG,11.58333333,F,low encoding accuracy,,ready
+ECoG04,k0,ECoG,15.08333333,M,,,ready
+ECoG05,k0,ECoG,12.91666667,M,,,ready
+ECoG06,k0,ECoG,12.5,F,,,ready
+ECoG07,k0,ECoG,17.33333333,M,,,ready
+ECoG08,k0,ECoG,10.5,F,,,ready
+ECoG09,k0,ECoG,15.58333333,M,,,ready
+ECoG10,k0,ECoG,10.58333333,M,,,ready
+ECoG11,k0,ECoG,16.91666667,M,,,ready
+ECoG12,k0,ECoG,6.166666667,F,,,ready
+ECoG13,k0,ECoG,11.08333333,M,,,ready
+ECoG14,k0,ECoG,16.66666667,M,low encoding accuracy,,ready
+ECoG15,k0,ECoG,19.3333,F,,,ready
+ECoG16,k0,ECoG (1 sEEG - parietal),16.0833,F,,sEEG track(s) excluded from final data,ready
+ECoG17,k0,ECoG (2 sEEG - parietal),8.5,M,,sEEG track(s) excluded from final data,ready
+ECoG18,k0,ECoG (1 sEEG - insula),14.6666,F,,sEEG track(s) excluded from final data,ready
+ECoG19,k0,ECoG,5.936986301,F,,,ready
+ECoG20,k0,ECoG,16.66666667,F,,,ready
+ECoG21,k0,ECoG (2 sEEG - ant/post),13.16666667,M,,sEEG track(s) excluded from final data,ready
+ECoG22,k0,sEEG,16.75,F,,,ready
+ECoG23,k0,ECoG,9.333333333,M,exclude memory performance - low retrieval accuracy,,ready
+ECoG24,k0,ECoG (1 sEEG - premotor),13.33333333,M,,sEEG track(s) excluded from final data,ready
+ECoG25,k0,ECoG,11.25,M,,,ready
+ECoG26,k0,ECoG,13.08333333,F,,,ready
+ECoG27,k0,ECoG,20.5,M,,,ready
+ECoG28,k0,ECoG,15.20547945,F,,,ready
+ECoG29,k0,ECoG,16.66666667,M,exclude memory performance - low retrieval accuracy,,ready
+ECoG30,k0,ECoG,11,M,temporal lobe lesion,,ready
+ECoG31,k0,ECoG (1 sEEG - frontal),17.41666667,M,,sEEG track(s) excluded from final data,ready
+ECoG32,k0,ECoG,13.33333333,M,,,ready
+IR84,k0,sEEG,21,F,,,ready
+IR92,k0,ECoG,25,M,,,ready
+SD1,k0,sEEG,17.68651608,M,,,ready
+SD3,k0,sEEG,12.32854209,M,,,ready
+SD4,k0,sEEG,13.77138946,M,,,ready
+DA8,k1,sEEG,28.58863792,F,,srate 512 Hz,ready
+ECoG33,k1,sEEG,20.333333,F,hydrocephalus,,ready
+ECoG34,k1,ECoG,7.916666667,F,,,ready
+ECoG35,k1,ECoG (2 sEEG),8.666666667,F,exclude memory performance - responded 'new' to everything,,ready
+IR98,k1,sEEG+SU,23,M,,,ready
+SD5,k1,sEEG,20.89527721,F,,,ready
+SD6,k1,sEEG,11.16769336,M,,,ready
+ECoG36,r1,ECoG (1 sEEG - temporal),17.08333333,M,,sEEG track(s) excluded from final data,ready
+ECoG37,r1,sEEG,19.59793836,M,,,ready
+LC02,r1,sEEG,7.123887748,M,exclude memory performance - low retrieval accuracy,,ready
+LC03,r1,ECoG+sEEG,12.50102669,F,,,ready
+NM02,r1,sEEG,26.15468857,M,,,ready
+NM04,r1,sEEG,26.88843258,M,,,ready
+NM05,r1,sEEG,28.11225188,F,,,ready
+OH21,r1,sEEG,13.2073922,F,,,pending - Ammar
+SD9,r1,sEEG,16.95824778,F,,,pending - Parisa
+SLCH006,r1,sEEG,25.08333333,F,A3-A4,,ready
+LC04,r2,sEEG,16.84052019,F,,,ready
+LC05,r2,sEEG,13.10061602,M,,,pending - Sam
+LC06,r2,sEEG,9.456536619,M,,,pending - Sam
+OH27,r2,sEEG,20.96919918,F,not very motivated - check behavior,,pending - Lisa
+OH28,r2,sEEG,14.46406571,M,,,pending - Ammar
+OH29,r2,sEEG,18.16837782,M,,,pending - Ammar
+OH30,r2,sEEG,15.27173169,M,,,pending - Lisa
+SLCH010,r2,sEEG,,,,,pending - Lisa
